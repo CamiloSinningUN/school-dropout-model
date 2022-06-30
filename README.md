@@ -295,7 +295,7 @@ fig  = sns.pairplot(data = df)
 
 
     
-![png](Model_files/Model_9_0.png)
+![png](README_files/Model_9_0.png)
     
 
 
@@ -307,7 +307,7 @@ fig1 = sns.heatmap(df.corr(),annot = True,linewidths=.5, cmap = 'Blues',ax = ax)
 
 
     
-![png](Model_files/Model_10_0.png)
+![png](README_files/Model_10_0.png)
     
 
 
@@ -319,7 +319,7 @@ fig1 = sns.heatmap(df_mod.corr(),annot = True, cmap = 'Blues')
 
 
     
-![png](Model_files/Model_11_0.png)
+![png](README_files/Model_11_0.png)
     
 
 
@@ -331,7 +331,7 @@ fig = sns.violinplot(data = df, x  ="DEPARTAMENTO", y = "DESERCIÓN_MEDIA",ax = 
 
 
     
-![png](Model_files/Model_12_0.png)
+![png](README_files/Model_12_0.png)
     
 
 
@@ -418,7 +418,7 @@ succ = np.array(succ);
 
 
     
-![png](Model_files/Model_28_0.png)
+![png](README_files/Model_28_0.png)
     
 
 
@@ -489,7 +489,7 @@ sns.heatmap(confusion_matrix(Y, y_pred, labels=[1, 0])/len(Y), annot = True, cma
 
 
     
-![png](Model_files/Model_34_1.png)
+![png](README_files/Model_34_1.png)
     
 
 
