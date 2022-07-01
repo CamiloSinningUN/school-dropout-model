@@ -1,6 +1,6 @@
 # **School dropout predictive model**
 
-Using the database MEN ESTADÍSTICAS EN EDUCACIÓN EN PREESCOLAR, BÁSICA Y MEDIA POR MUNICIPIO provided by Datos abiertos, it is going to be build a predictive model to get the school dropout.
+Using the database MEN ESTADÍSTICAS EN EDUCACIÓN EN PREESCOLAR, BÁSICA Y MEDIA POR MUNICIPIO provided by Datos abiertos, a predictive model to get the school dropout is built.
 
 
 ### **Imports**
