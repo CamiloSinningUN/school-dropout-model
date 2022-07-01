@@ -190,7 +190,7 @@ mentioned database presents us with statistical information corresponding to the
 
 The predictive model developed was limited to analyzing and predicting data referring to secondary education. More specifically, approval and the department in question are used to predict low or high school dropout in a certain municipality.
 
-![model (1)](https://user-images.githubusercontent.com/61607058/176817910-563c82d9-b5f7-4cb5-a02e-def38a840d44.png)
+![ERD con entidades coloreadas (notación UML)](https://user-images.githubusercontent.com/61607058/176818652-2b5de5dc-8375-4a82-a9b4-b21854ae353a.png)
 
 ## **Results**
 
